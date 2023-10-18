@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+vllm.iml
+.idea
 # Distribution / packaging
 .Python
 build/
