@@ -1,6 +1,6 @@
 from typing import Dict, List, Optional
 
-from vllm.sequence import SequenceGroup, SequenceStatus
+from vllm.sequence import SequenceGroup, SequenceStatus, PromptLogprobs
 
 
 class CompletionOutput:
